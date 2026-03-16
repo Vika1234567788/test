@@ -1,0 +1,36 @@
+{
+  "themes": {
+    "light": {
+      "background": "#FFFFFF",
+      "foreground": "#212121"
+    },
+    "dark": {
+      "background": "#121212",
+      "foreground": "#F5F5F5"
+    },
+    "primary": {
+      "background": "#1976D2",
+      "foreground": "#FFFFFF"
+    },
+    "secondary": {
+      "background": "#9C27B0",
+      "foreground": "#FFFFFF"
+    },
+    "success": {
+      "background": "#388E3C",
+      "foreground": "#FFFFFF"
+    },
+    "warning": {
+      "background": "#F57C00",
+      "foreground": "#FFFFFF"
+    },
+    "error": {
+      "background": "#D32F2F",
+      "foreground": "#FFFFFF"
+    },
+    "info": {
+      "background": "#0288D1",
+      "foreground": "#FFFFFF"
+    }
+  }
+}
